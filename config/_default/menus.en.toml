@@ -20,11 +20,11 @@
   pageRef = "bio.md"
   weight = 20
 
-#[[main]]
-  #name = "example sub-menu 1"
+[[main]]
+  name = "Art Projects"
   #parent = "Parent"
-  #pageRef = "posts"
-#  weight = 20
+  pageRef = "Art Projects"
+  weight = 1
 
 #[[main]]
   #name = "example sub-menu 2"
